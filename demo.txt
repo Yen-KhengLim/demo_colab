@@ -1,1 +1,2 @@
 this is gloria's stuff."making changes to demo.txt" 
+some random stuff \n 
